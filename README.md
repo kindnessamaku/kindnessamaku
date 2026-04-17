@@ -1,16 +1,14 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**kindnessamaku/kindnessamaku** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Cloud Support Engineer passionate about troubleshooting complex cloud issues and delivering reliable, customer-centric solutions. I specialize in diagnosing system failures, analyzing logs, and resolving infrastructure problems to ensure high availability and performance.
 
-Here are some ideas to get you started:
+### 🛠️ Tech Stack
+- AWS (EC2, S3, Lambda, API Gateway, DynamoDB)
+- Python (Automation & Cloud Scripting)
+- Infrastructure as Code (CloudFormation)
+- CI/CD (CodePipeline, CodeBuild)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🎯 Current Focus
+- Strengthening troubleshooting skills in distributed cloud environments
+- Preparing for a Cloud Support Engineer role in a global team
+- Expanding expertise in cloud security, IAM, and best practices
