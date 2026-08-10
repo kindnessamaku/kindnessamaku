@@ -5,8 +5,9 @@ I am a Cloud Support Engineer passionate about troubleshooting complex cloud iss
 ### 🛠️ Tech Stack
 - AWS (EC2, S3, Lambda, API Gateway, DynamoDB)
 - Scripting (Python)
-- Infrastructure as Code (CloudFormation)
-- CI/CD (CodePipeline, CodeBuild)
+- Infrastructure as Code
+- CI/CD
+- Operating Systems - Linux
 
 ### 🎯 Current Focus
 - Strengthening troubleshooting skills in distributed cloud environments
